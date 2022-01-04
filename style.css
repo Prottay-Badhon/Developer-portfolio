@@ -32,11 +32,16 @@ h1{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-
+.top-banner p{
+    color: gray;
+}
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.dream-big p{
+    color: gray;
 }
 .experience-item{
     box-shadow: 10px 10px 40px gray;
